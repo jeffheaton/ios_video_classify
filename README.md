@@ -1,5 +1,5 @@
 # T81-558: Applications of Deep Neural Networks
-**Module 1: Python Preliminaries**
+**Part 13.5: Using a Keras Deep Neural Network with a Web Application**
 * Instructor: [Jeff Heaton](https://sites.wustl.edu/jeffheaton/), McKelvey School of Engineering, [Washington University in St. Louis](https://engineering.wustl.edu/Programs/Pages/default.aspx)
 * For more information visit the [class website](https://sites.wustl.edu/jeffheaton/t81-558/).
 
